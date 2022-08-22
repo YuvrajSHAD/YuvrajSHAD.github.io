@@ -1,5 +1,3 @@
-Massively by HTML5 UP
-
 	Demo Images:
 		Unsplash (unsplash.com)
 
